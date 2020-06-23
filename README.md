@@ -8,6 +8,21 @@ expo init template
 
 
 
+## Renaming Project
+
+To rename the project, the easiest way is to use the react-native-rename package
+
+Use this tutorial by npm: https://www.npmjs.com/package/react-native-rename
+
+But you just need these two commands
+
+```shell
+npm install react-native-rename -g # installing the react-native-rename package
+react-native-rename <newName> # to rename react native project
+```
+
+
+
 ## Setup
 
 Here is the setup for creating this project template
